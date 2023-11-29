@@ -4,6 +4,7 @@ p{
     color:rgba(0, 0, 0, 0.945);
     font-family: "Times New Roman", Times, serif;
     font-weight:bold;
+    font-size: 35px;
 }
 hr{border-bottom-color:rgb(0, 0, 0);border-width:2px;}
 h2{
