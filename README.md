@@ -24,13 +24,9 @@
             <li><a href="https://www.kulturportali.gov.tr/turkiye/rize/gezilecekyer/pokut-yaylasi" target="_blank">Pokut Yaylası</a></li>
             <li><a href="https://www.kulturportali.gov.tr/turkiye/rize/gezilecekyer/botanik-ziraat-cay-bahcesi" target="_blank">Ziraat Çay Bahçesi</a></li>
             <li><a href="https://www.kulturportali.gov.tr/turkiye/rize/gezilecekyer/ayder-yaylasi" target="_blank">Ayder Yaylası </a></li>
-            <li><a href="https://www.kulturportali.gov.tr/turkiye/rize/gezilecekyer/zilkale" target="_blank">Zilkale </a></li>
-    
-        </ul>
+            <li><a href="https://www.kulturportali.gov.tr/turkiye/rize/gezilecekyer/zilkale" target="_blank">Zilkale </a></li></ul>
         <hr><hr>
-    <h2>Geleneksel Mutfak</h2>
- 
-    <ul>
+    <h2>Geleneksel Mutfak</h2><ul>
         <li>Pepeçura <br> <img src="https://www.kulturportali.gov.tr/repoKulturPortali/small/23022013/1062c4f3-9682-4557-9739-4e8cda915af6.JPG?format=jpg&quality=50" width="300" height="250"> </li>
         <li>Laz Böreği <br><img src="https://www.kulturportali.gov.tr/repoKulturPortali/small/21032013/4fe91953-bae1-46d4-a647-2d4e00be6a4a.JPG?format=jpg&quality=50" width="300" height="250"></li>
         <li>Kara Lahana Sarması<br> <img src="https://www.kulturportali.gov.tr/repoKulturPortali/small/27022013/0f5e3411-c63b-409b-8b7d-a12e9cc465a1.JPG?format=jpg&quality=50" width="300" height="250"></li>
